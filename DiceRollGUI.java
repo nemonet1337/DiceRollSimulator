@@ -15,7 +15,7 @@ public class DiceRollGUI extends JFrame {
         this.random = new Random();
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(360, 220);
+        setSize(550, 400);
         setLocationRelativeTo(null);
 
         // Top panel: instruction
